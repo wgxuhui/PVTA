@@ -23,7 +23,7 @@ Section V-C / Table IV of the paper.
 
 ## Requirements
 
-- Xilinx ZCU104 (Zynq UltraScale+), running ___ (e.g. PYNQ v___ / PetaLinux ___)
+- Xilinx ZCU104 (Zynq UltraScale+)
 - Vivado 2020.1 (used to generate the bitstream; not needed just to run)
 - Python 3 on the board (for `down_bit.py`)
 
